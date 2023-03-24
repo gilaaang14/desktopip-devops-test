@@ -20,7 +20,7 @@
    - Endpoint **{url}/** point to the frontend services.
    - Endpoint **{url}/api** point to the backend services.
 3.  All the deployment & configs must use dockers.
-4.  Provide Dockerfile image, docker-compose/other orchestration scenarios, mount volumes to keep data persistent.
+4.  Provide Dockerfile image, docker-compose/other orchestration scenarios, webserver configs & mount volumes to keep data persistent.
 
 ### Submit
 1.  After you are done, create a merge request in your private repo and invite [devbadrinteractive](https://github.com/devbadrinteractive) as the reviewer
