@@ -6,7 +6,7 @@
 
 ### Preparations
 1.  Create a private repository on your Github account
-2.  Import code from existing repo: [https://github.com/badr-interactive/devops-interview](https://github.com/badr-interactive/devops-interview)
+2.  Import code from existing repo: [https://github.com/badr-interactive/devops-challenge](https://github.com/badr-interactive/devops-challenge)
 3.  Add [devbadrinteractive](https://github.com/devbadrinteractive) as the collaborator of your repo
 
 ### Challenge
@@ -20,6 +20,7 @@
    - Endpoint **{url}/** point to the frontend services.
    - Endpoint **{url}/api** point to the backend services.
 3.  All the deployment & configs must use dockers.
+4.  Provide Dockerfile image, docker-compose/other orchestration scenarios, mount volumes to keep data persistent.
 
 ### Submit
 1.  After you are done, create a merge request in your private repo and invite [devbadrinteractive](https://github.com/devbadrinteractive) as the reviewer
