@@ -16,8 +16,9 @@
 2.  Create a web server as the gateway for the 2 previous containers using nginx. The following is a system design that will be made.
 
 ![](https://lh3.googleusercontent.com/Jho8feJkwjjdN1XZMBY24ow4WZGCJ15DFq0kAss93rQ_FRONLJMEGBw4_7KhOCDYTNNlLPKuu5tpsg_uCIKzJCvzCl9gN5Ug7dNtqSYUrh4X1xI4tT1c7CEjIOrLwehZZ86kXhTuALLkj8zYNrJqfwo)
-    - Endpoint **{url}/** point to the frontend services.
-    - Endpoint **{url}/api** point to the backend services.
+    
+   - Endpoint **{url}/** point to the frontend services.
+   - Endpoint **{url}/api** point to the backend services.
 3.  All the deployment & configs must use dockers.
 
 ### Submit
