@@ -6,7 +6,7 @@
 
 ### Preparations
 1.  Create a private repository on your Github account
-2.  Import code from existing repo: [https://github.com/gilaaang14/desktopip-devops-test](https://github.com/gilaaang14/devops-test)
+2.  Import code from existing repo: [https://github.com/gilaaang14/devops-test](https://github.com/gilaaang14/devops-test)
 3.  Add [gilaaang14](https://github.com/gilaaang14/devops-test) as the collaborator of your repo
 
 ### Challenge
