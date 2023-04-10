@@ -6,8 +6,8 @@
 
 ### Preparations
 1.  Create a private repository on your Github account
-2.  Import code from existing repo: [https://github.com/badr-interactive/devops-challenge](https://github.com/badr-interactive/devops-challenge)
-3.  Add [devbadrinteractive](https://github.com/devbadrinteractive) as the collaborator of your repo
+2.  Import code from existing repo: [https://github.com/gilaaang14/desktopip-devops-test](https://github.com/gilaaang14/desktopip-devops-test)
+3.  Add [gilaaang14](https://github.com/gilaaang14/desktopip-devops-test) as the collaborator of your repo
 
 ### Challenge
 1.  Create a containerized app from a Backend & Frontend applications using docker, deploy using the following ports:
@@ -23,12 +23,9 @@
 4.  Provide Dockerfile image, docker-compose/other orchestration scenarios, webserver configs & mount volumes to keep data persistent.
 
 ### Submit
-1.  After you are done, create a merge request in your private repo and invite [devbadrinteractive](https://github.com/devbadrinteractive) as the reviewer
+1.  After you are done, create a merge request in your private repo and invite [gilaaang14](https://github.com/gilaaang14/desktopip-devops-test) as the reviewer
 2.  The last merge request will be graded
 3. In your pull request description, please add the following information:
     1. Full Name
     2. Email Address
     3. Feedback on this assessment
-
-
------ Badr Interactive 2023
