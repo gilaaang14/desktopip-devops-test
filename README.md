@@ -1,6 +1,6 @@
 # DevOps Challenge
 ### Instructions
-1.  Allocate maximum 5 hours for this project
+1.  Allocate maximum 1 hours for this project
 2.  For preparations, you must have github accounts to do this challenge.
 3.  Read all the instructions carefully
 
